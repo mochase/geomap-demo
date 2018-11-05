@@ -4,7 +4,7 @@
 
 `npm install && npm start`
 
-***注意:*** 将index.html中的key换成你自己在高德地图申请的key
+***注意:*** 将index.html中的key换成你自己在高德地图申请的key
 
 ## demo
 
@@ -13,5 +13,5 @@
 ## features
 
 1. 渲染散点数据.
-2. 选择map区域与外部dashboard联动.
+2. 选择map区域与外部dashboard联动.
 3. ...
